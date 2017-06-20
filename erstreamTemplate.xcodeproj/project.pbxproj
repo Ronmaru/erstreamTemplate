@@ -1,0 +1,554 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EC54AF031EF9251600FC4BEA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC54AF021EF9251600FC4BEA /* AppDelegate.swift */; };
+		EC54AF051EF9251600FC4BEA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC54AF041EF9251600FC4BEA /* ViewController.swift */; };
+		EC54AF081EF9251600FC4BEA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF061EF9251600FC4BEA /* Main.storyboard */; };
+		EC54AF0B1EF9251600FC4BEA /* erstreamTemplate.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EC54AF091EF9251600FC4BEA /* erstreamTemplate.xcdatamodeld */; };
+		EC54AF0D1EF9251600FC4BEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF0C1EF9251600FC4BEA /* Assets.xcassets */; };
+		EC54AF101EF9251600FC4BEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF0E1EF9251600FC4BEA /* LaunchScreen.storyboard */; };
+		EC54AF1B1EF9251600FC4BEA /* erstreamTemplateTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC54AF1A1EF9251600FC4BEA /* erstreamTemplateTests.swift */; };
+		EC54AF261EF9251600FC4BEA /* erstreamTemplateUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC54AF251EF9251600FC4BEA /* erstreamTemplateUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EC54AF171EF9251600FC4BEA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EC54AEF71EF9251600FC4BEA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EC54AEFE1EF9251600FC4BEA;
+			remoteInfo = erstreamTemplate;
+		};
+		EC54AF221EF9251600FC4BEA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EC54AEF71EF9251600FC4BEA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EC54AEFE1EF9251600FC4BEA;
+			remoteInfo = erstreamTemplate;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EC54AEFF1EF9251600FC4BEA /* erstreamTemplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = erstreamTemplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC54AF021EF9251600FC4BEA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EC54AF041EF9251600FC4BEA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EC54AF071EF9251600FC4BEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EC54AF0A1EF9251600FC4BEA /* erstreamTemplate.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = erstreamTemplate.xcdatamodel; sourceTree = "<group>"; };
+		EC54AF0C1EF9251600FC4BEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EC54AF0F1EF9251600FC4BEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EC54AF111EF9251600FC4BEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC54AF161EF9251600FC4BEA /* erstreamTemplateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = erstreamTemplateTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC54AF1A1EF9251600FC4BEA /* erstreamTemplateTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = erstreamTemplateTests.swift; sourceTree = "<group>"; };
+		EC54AF1C1EF9251600FC4BEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC54AF211EF9251600FC4BEA /* erstreamTemplateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = erstreamTemplateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC54AF251EF9251600FC4BEA /* erstreamTemplateUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = erstreamTemplateUITests.swift; sourceTree = "<group>"; };
+		EC54AF271EF9251600FC4BEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EC54AEFC1EF9251600FC4BEA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC54AF131EF9251600FC4BEA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC54AF1E1EF9251600FC4BEA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EC54AEF61EF9251600FC4BEA = {
+			isa = PBXGroup;
+			children = (
+				EC54AF011EF9251600FC4BEA /* erstreamTemplate */,
+				EC54AF191EF9251600FC4BEA /* erstreamTemplateTests */,
+				EC54AF241EF9251600FC4BEA /* erstreamTemplateUITests */,
+				EC54AF001EF9251600FC4BEA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EC54AF001EF9251600FC4BEA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EC54AEFF1EF9251600FC4BEA /* erstreamTemplate.app */,
+				EC54AF161EF9251600FC4BEA /* erstreamTemplateTests.xctest */,
+				EC54AF211EF9251600FC4BEA /* erstreamTemplateUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EC54AF011EF9251600FC4BEA /* erstreamTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				EC54AF021EF9251600FC4BEA /* AppDelegate.swift */,
+				EC54AF041EF9251600FC4BEA /* ViewController.swift */,
+				EC54AF061EF9251600FC4BEA /* Main.storyboard */,
+				EC54AF0C1EF9251600FC4BEA /* Assets.xcassets */,
+				EC54AF0E1EF9251600FC4BEA /* LaunchScreen.storyboard */,
+				EC54AF111EF9251600FC4BEA /* Info.plist */,
+				EC54AF091EF9251600FC4BEA /* erstreamTemplate.xcdatamodeld */,
+			);
+			path = erstreamTemplate;
+			sourceTree = "<group>";
+		};
+		EC54AF191EF9251600FC4BEA /* erstreamTemplateTests */ = {
+			isa = PBXGroup;
+			children = (
+				EC54AF1A1EF9251600FC4BEA /* erstreamTemplateTests.swift */,
+				EC54AF1C1EF9251600FC4BEA /* Info.plist */,
+			);
+			path = erstreamTemplateTests;
+			sourceTree = "<group>";
+		};
+		EC54AF241EF9251600FC4BEA /* erstreamTemplateUITests */ = {
+			isa = PBXGroup;
+			children = (
+				EC54AF251EF9251600FC4BEA /* erstreamTemplateUITests.swift */,
+				EC54AF271EF9251600FC4BEA /* Info.plist */,
+			);
+			path = erstreamTemplateUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EC54AEFE1EF9251600FC4BEA /* erstreamTemplate */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC54AF2A1EF9251600FC4BEA /* Build configuration list for PBXNativeTarget "erstreamTemplate" */;
+			buildPhases = (
+				EC54AEFB1EF9251600FC4BEA /* Sources */,
+				EC54AEFC1EF9251600FC4BEA /* Frameworks */,
+				EC54AEFD1EF9251600FC4BEA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = erstreamTemplate;
+			productName = erstreamTemplate;
+			productReference = EC54AEFF1EF9251600FC4BEA /* erstreamTemplate.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EC54AF151EF9251600FC4BEA /* erstreamTemplateTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC54AF2D1EF9251600FC4BEA /* Build configuration list for PBXNativeTarget "erstreamTemplateTests" */;
+			buildPhases = (
+				EC54AF121EF9251600FC4BEA /* Sources */,
+				EC54AF131EF9251600FC4BEA /* Frameworks */,
+				EC54AF141EF9251600FC4BEA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EC54AF181EF9251600FC4BEA /* PBXTargetDependency */,
+			);
+			name = erstreamTemplateTests;
+			productName = erstreamTemplateTests;
+			productReference = EC54AF161EF9251600FC4BEA /* erstreamTemplateTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EC54AF201EF9251600FC4BEA /* erstreamTemplateUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC54AF301EF9251600FC4BEA /* Build configuration list for PBXNativeTarget "erstreamTemplateUITests" */;
+			buildPhases = (
+				EC54AF1D1EF9251600FC4BEA /* Sources */,
+				EC54AF1E1EF9251600FC4BEA /* Frameworks */,
+				EC54AF1F1EF9251600FC4BEA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EC54AF231EF9251600FC4BEA /* PBXTargetDependency */,
+			);
+			name = erstreamTemplateUITests;
+			productName = erstreamTemplateUITests;
+			productReference = EC54AF211EF9251600FC4BEA /* erstreamTemplateUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EC54AEF71EF9251600FC4BEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = ismail;
+				TargetAttributes = {
+					EC54AEFE1EF9251600FC4BEA = {
+						CreatedOnToolsVersion = 8.3.1;
+						DevelopmentTeam = V6KFG398S6;
+						ProvisioningStyle = Automatic;
+					};
+					EC54AF151EF9251600FC4BEA = {
+						CreatedOnToolsVersion = 8.3.1;
+						DevelopmentTeam = V6KFG398S6;
+						ProvisioningStyle = Automatic;
+						TestTargetID = EC54AEFE1EF9251600FC4BEA;
+					};
+					EC54AF201EF9251600FC4BEA = {
+						CreatedOnToolsVersion = 8.3.1;
+						DevelopmentTeam = V6KFG398S6;
+						ProvisioningStyle = Automatic;
+						TestTargetID = EC54AEFE1EF9251600FC4BEA;
+					};
+				};
+			};
+			buildConfigurationList = EC54AEFA1EF9251600FC4BEA /* Build configuration list for PBXProject "erstreamTemplate" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EC54AEF61EF9251600FC4BEA;
+			productRefGroup = EC54AF001EF9251600FC4BEA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EC54AEFE1EF9251600FC4BEA /* erstreamTemplate */,
+				EC54AF151EF9251600FC4BEA /* erstreamTemplateTests */,
+				EC54AF201EF9251600FC4BEA /* erstreamTemplateUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EC54AEFD1EF9251600FC4BEA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC54AF101EF9251600FC4BEA /* LaunchScreen.storyboard in Resources */,
+				EC54AF0D1EF9251600FC4BEA /* Assets.xcassets in Resources */,
+				EC54AF081EF9251600FC4BEA /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC54AF141EF9251600FC4BEA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC54AF1F1EF9251600FC4BEA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EC54AEFB1EF9251600FC4BEA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC54AF0B1EF9251600FC4BEA /* erstreamTemplate.xcdatamodeld in Sources */,
+				EC54AF051EF9251600FC4BEA /* ViewController.swift in Sources */,
+				EC54AF031EF9251600FC4BEA /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC54AF121EF9251600FC4BEA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC54AF1B1EF9251600FC4BEA /* erstreamTemplateTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC54AF1D1EF9251600FC4BEA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC54AF261EF9251600FC4BEA /* erstreamTemplateUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EC54AF181EF9251600FC4BEA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EC54AEFE1EF9251600FC4BEA /* erstreamTemplate */;
+			targetProxy = EC54AF171EF9251600FC4BEA /* PBXContainerItemProxy */;
+		};
+		EC54AF231EF9251600FC4BEA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EC54AEFE1EF9251600FC4BEA /* erstreamTemplate */;
+			targetProxy = EC54AF221EF9251600FC4BEA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		EC54AF061EF9251600FC4BEA /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC54AF071EF9251600FC4BEA /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		EC54AF0E1EF9251600FC4BEA /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC54AF0F1EF9251600FC4BEA /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EC54AF281EF9251600FC4BEA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EC54AF291EF9251600FC4BEA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EC54AF2B1EF9251600FC4BEA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = V6KFG398S6;
+				INFOPLIST_FILE = erstreamTemplate/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.teqwise.ios.erstreamTemplate;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		EC54AF2C1EF9251600FC4BEA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = V6KFG398S6;
+				INFOPLIST_FILE = erstreamTemplate/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.teqwise.ios.erstreamTemplate;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		EC54AF2E1EF9251600FC4BEA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = V6KFG398S6;
+				INFOPLIST_FILE = erstreamTemplateTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.teqwise.ios.erstreamTemplateTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/erstreamTemplate.app/erstreamTemplate";
+			};
+			name = Debug;
+		};
+		EC54AF2F1EF9251600FC4BEA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = V6KFG398S6;
+				INFOPLIST_FILE = erstreamTemplateTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.teqwise.ios.erstreamTemplateTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/erstreamTemplate.app/erstreamTemplate";
+			};
+			name = Release;
+		};
+		EC54AF311EF9251600FC4BEA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = V6KFG398S6;
+				INFOPLIST_FILE = erstreamTemplateUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.teqwise.ios.erstreamTemplateUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = erstreamTemplate;
+			};
+			name = Debug;
+		};
+		EC54AF321EF9251600FC4BEA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = V6KFG398S6;
+				INFOPLIST_FILE = erstreamTemplateUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.teqwise.ios.erstreamTemplateUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = erstreamTemplate;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EC54AEFA1EF9251600FC4BEA /* Build configuration list for PBXProject "erstreamTemplate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC54AF281EF9251600FC4BEA /* Debug */,
+				EC54AF291EF9251600FC4BEA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC54AF2A1EF9251600FC4BEA /* Build configuration list for PBXNativeTarget "erstreamTemplate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC54AF2B1EF9251600FC4BEA /* Debug */,
+				EC54AF2C1EF9251600FC4BEA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		EC54AF2D1EF9251600FC4BEA /* Build configuration list for PBXNativeTarget "erstreamTemplateTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC54AF2E1EF9251600FC4BEA /* Debug */,
+				EC54AF2F1EF9251600FC4BEA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		EC54AF301EF9251600FC4BEA /* Build configuration list for PBXNativeTarget "erstreamTemplateUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC54AF311EF9251600FC4BEA /* Debug */,
+				EC54AF321EF9251600FC4BEA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		EC54AF091EF9251600FC4BEA /* erstreamTemplate.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				EC54AF0A1EF9251600FC4BEA /* erstreamTemplate.xcdatamodel */,
+			);
+			currentVersion = EC54AF0A1EF9251600FC4BEA /* erstreamTemplate.xcdatamodel */;
+			path = erstreamTemplate.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = EC54AEF71EF9251600FC4BEA /* Project object */;
+}
