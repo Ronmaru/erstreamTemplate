@@ -10,16 +10,22 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var imageView: UIImageView!
+    
+    @IBOutlet weak var textLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        #if BRAND
+            textLabel.text = "Brand01"
+            imageView.image = UIImage(named: "wallpaper2")
+        #else
+            textLabel.text = "Template"
+            imageView.image = UIImage(named: "add_drawing_btn")
+        #endif
+        //textLabel.text =
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
 
 }
 

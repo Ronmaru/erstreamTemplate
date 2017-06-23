@@ -2,12 +2,25 @@
   "images" : [
     {
       "idiom" : "iphone",
-      "size" : "29x29",
+      "size" : "20x20",
       "scale" : "2x"
     },
     {
+      "size" : "20x20",
       "idiom" : "iphone",
+      "filename" : "60.png",
+      "scale" : "3x"
+    },
+    {
       "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "58.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "87.png",
       "scale" : "3x"
     },
     {

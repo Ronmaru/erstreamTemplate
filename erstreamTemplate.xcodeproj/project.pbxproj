@@ -11,10 +11,21 @@
 		EC54AF051EF9251600FC4BEA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC54AF041EF9251600FC4BEA /* ViewController.swift */; };
 		EC54AF081EF9251600FC4BEA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF061EF9251600FC4BEA /* Main.storyboard */; };
 		EC54AF0B1EF9251600FC4BEA /* erstreamTemplate.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EC54AF091EF9251600FC4BEA /* erstreamTemplate.xcdatamodeld */; };
-		EC54AF0D1EF9251600FC4BEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF0C1EF9251600FC4BEA /* Assets.xcassets */; };
 		EC54AF101EF9251600FC4BEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF0E1EF9251600FC4BEA /* LaunchScreen.storyboard */; };
 		EC54AF1B1EF9251600FC4BEA /* erstreamTemplateTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC54AF1A1EF9251600FC4BEA /* erstreamTemplateTests.swift */; };
 		EC54AF261EF9251600FC4BEA /* erstreamTemplateUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC54AF251EF9251600FC4BEA /* erstreamTemplateUITests.swift */; };
+		EC54AF351EF94F2000FC4BEA /* erstreamTemplate.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EC54AF091EF9251600FC4BEA /* erstreamTemplate.xcdatamodeld */; };
+		EC54AF361EF94F2000FC4BEA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC54AF041EF9251600FC4BEA /* ViewController.swift */; };
+		EC54AF371EF94F2000FC4BEA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC54AF021EF9251600FC4BEA /* AppDelegate.swift */; };
+		EC54AF3A1EF94F2000FC4BEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF0E1EF9251600FC4BEA /* LaunchScreen.storyboard */; };
+		EC54AF3C1EF94F2000FC4BEA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF061EF9251600FC4BEA /* Main.storyboard */; };
+		EC54AF5D1EFA90FE00FC4BEA /* addwise_logo_v2_40.png in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF581EFA90FE00FC4BEA /* addwise_logo_v2_40.png */; };
+		EC54AF5E1EFA90FE00FC4BEA /* addwise_logo_v2_76.png in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF591EFA90FE00FC4BEA /* addwise_logo_v2_76.png */; };
+		EC54AF5F1EFA90FE00FC4BEA /* addwise_logo_v2_80.png in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF5A1EFA90FE00FC4BEA /* addwise_logo_v2_80.png */; };
+		EC54AF601EFA90FE00FC4BEA /* addwise_logo_v2_152.png in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF5B1EFA90FE00FC4BEA /* addwise_logo_v2_152.png */; };
+		EC54AF611EFA90FE00FC4BEA /* addwise_logo_v2_167.png in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF5C1EFA90FE00FC4BEA /* addwise_logo_v2_167.png */; };
+		EC54AF631EFA939300FC4BEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF0C1EF9251600FC4BEA /* Assets.xcassets */; };
+		EC54AF641EFA939900FC4BEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC54AF0C1EF9251600FC4BEA /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +60,13 @@
 		EC54AF211EF9251600FC4BEA /* erstreamTemplateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = erstreamTemplateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC54AF251EF9251600FC4BEA /* erstreamTemplateUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = erstreamTemplateUITests.swift; sourceTree = "<group>"; };
 		EC54AF271EF9251600FC4BEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC54AF421EF94F2000FC4BEA /* Brand01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Brand01.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC54AF431EF94F2100FC4BEA /* Brand01.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Brand01.plist; path = /Users/ismail/Desktop/erstreamTemplate/Brand01.plist; sourceTree = "<absolute>"; };
+		EC54AF581EFA90FE00FC4BEA /* addwise_logo_v2_40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = addwise_logo_v2_40.png; sourceTree = "<group>"; };
+		EC54AF591EFA90FE00FC4BEA /* addwise_logo_v2_76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = addwise_logo_v2_76.png; sourceTree = "<group>"; };
+		EC54AF5A1EFA90FE00FC4BEA /* addwise_logo_v2_80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = addwise_logo_v2_80.png; sourceTree = "<group>"; };
+		EC54AF5B1EFA90FE00FC4BEA /* addwise_logo_v2_152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = addwise_logo_v2_152.png; sourceTree = "<group>"; };
+		EC54AF5C1EFA90FE00FC4BEA /* addwise_logo_v2_167.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = addwise_logo_v2_167.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +91,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		EC54AF381EF94F2000FC4BEA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -83,8 +108,12 @@
 				EC54AF191EF9251600FC4BEA /* erstreamTemplateTests */,
 				EC54AF241EF9251600FC4BEA /* erstreamTemplateUITests */,
 				EC54AF001EF9251600FC4BEA /* Products */,
+				EC54AF551EFA89EC00FC4BEA /* Brand01 */,
 			);
+			indentWidth = 4;
 			sourceTree = "<group>";
+			tabWidth = 4;
+			usesTabs = 0;
 		};
 		EC54AF001EF9251600FC4BEA /* Products */ = {
 			isa = PBXGroup;
@@ -92,6 +121,7 @@
 				EC54AEFF1EF9251600FC4BEA /* erstreamTemplate.app */,
 				EC54AF161EF9251600FC4BEA /* erstreamTemplateTests.xctest */,
 				EC54AF211EF9251600FC4BEA /* erstreamTemplateUITests.xctest */,
+				EC54AF421EF94F2000FC4BEA /* Brand01.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -128,6 +158,27 @@
 			path = erstreamTemplateUITests;
 			sourceTree = "<group>";
 		};
+		EC54AF551EFA89EC00FC4BEA /* Brand01 */ = {
+			isa = PBXGroup;
+			children = (
+				EC54AF571EFA90AD00FC4BEA /* images */,
+				EC54AF431EF94F2100FC4BEA /* Brand01.plist */,
+			);
+			name = Brand01;
+			sourceTree = "<group>";
+		};
+		EC54AF571EFA90AD00FC4BEA /* images */ = {
+			isa = PBXGroup;
+			children = (
+				EC54AF581EFA90FE00FC4BEA /* addwise_logo_v2_40.png */,
+				EC54AF591EFA90FE00FC4BEA /* addwise_logo_v2_76.png */,
+				EC54AF5A1EFA90FE00FC4BEA /* addwise_logo_v2_80.png */,
+				EC54AF5B1EFA90FE00FC4BEA /* addwise_logo_v2_152.png */,
+				EC54AF5C1EFA90FE00FC4BEA /* addwise_logo_v2_167.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -138,6 +189,8 @@
 				EC54AEFB1EF9251600FC4BEA /* Sources */,
 				EC54AEFC1EF9251600FC4BEA /* Frameworks */,
 				EC54AEFD1EF9251600FC4BEA /* Resources */,
+				B149A48AB7CBAF89A3C3F3C3 /* Warn for TODO and FIXME comments */,
+				B6CF7734C5C3EE605ACF8424 /* Set version number */,
 			);
 			buildRules = (
 			);
@@ -184,6 +237,25 @@
 			productReference = EC54AF211EF9251600FC4BEA /* erstreamTemplateUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
+		EC54AF331EF94F2000FC4BEA /* Brand01 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC54AF3F1EF94F2000FC4BEA /* Build configuration list for PBXNativeTarget "Brand01" */;
+			buildPhases = (
+				EC54AF341EF94F2000FC4BEA /* Sources */,
+				EC54AF381EF94F2000FC4BEA /* Frameworks */,
+				EC54AF391EF94F2000FC4BEA /* Resources */,
+				EC54AF3D1EF94F2000FC4BEA /* Warn for TODO and FIXME comments */,
+				EC54AF3E1EF94F2000FC4BEA /* Set version number */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Brand01;
+			productName = erstreamTemplate;
+			productReference = EC54AF421EF94F2000FC4BEA /* Brand01.app */;
+			productType = "com.apple.product-type.application";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -211,6 +283,9 @@
 						ProvisioningStyle = Automatic;
 						TestTargetID = EC54AEFE1EF9251600FC4BEA;
 					};
+					EC54AF331EF94F2000FC4BEA = {
+						DevelopmentTeam = V6KFG398S6;
+					};
 				};
 			};
 			buildConfigurationList = EC54AEFA1EF9251600FC4BEA /* Build configuration list for PBXProject "erstreamTemplate" */;
@@ -229,6 +304,7 @@
 				EC54AEFE1EF9251600FC4BEA /* erstreamTemplate */,
 				EC54AF151EF9251600FC4BEA /* erstreamTemplateTests */,
 				EC54AF201EF9251600FC4BEA /* erstreamTemplateUITests */,
+				EC54AF331EF94F2000FC4BEA /* Brand01 */,
 			);
 		};
 /* End PBXProject section */
@@ -239,7 +315,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC54AF101EF9251600FC4BEA /* LaunchScreen.storyboard in Resources */,
-				EC54AF0D1EF9251600FC4BEA /* Assets.xcassets in Resources */,
+				EC54AF631EFA939300FC4BEA /* Assets.xcassets in Resources */,
 				EC54AF081EF9251600FC4BEA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -258,7 +334,81 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		EC54AF391EF94F2000FC4BEA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC54AF5D1EFA90FE00FC4BEA /* addwise_logo_v2_40.png in Resources */,
+				EC54AF601EFA90FE00FC4BEA /* addwise_logo_v2_152.png in Resources */,
+				EC54AF3A1EF94F2000FC4BEA /* LaunchScreen.storyboard in Resources */,
+				EC54AF5F1EFA90FE00FC4BEA /* addwise_logo_v2_80.png in Resources */,
+				EC54AF5E1EFA90FE00FC4BEA /* addwise_logo_v2_76.png in Resources */,
+				EC54AF3C1EF94F2000FC4BEA /* Main.storyboard in Resources */,
+				EC54AF641EFA939900FC4BEA /* Assets.xcassets in Resources */,
+				EC54AF611EFA90FE00FC4BEA /* addwise_logo_v2_167.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		B149A48AB7CBAF89A3C3F3C3 /* Warn for TODO and FIXME comments */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Warn for TODO and FIXME comments";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "KEYWORDS=\"TODO:|FIXME:|\\?\\?\\?:|\\!\\!\\!:\"\nFILE_EXTENSIONS=\"swift|h|m|mm|c|cpp\"\nfind -E \"${SRCROOT}\" -ipath \"${SRCROOT}/Carthage\" -prune -o -ipath \"${SRCROOT}/pods\" -prune -o \\( -regex \".*\\.($FILE_EXTENSIONS)$\" \\) -print0 | xargs -0 egrep --with-filename --line-number --only-matching \"($KEYWORDS).*\\$\" | perl -p -e \"s/($KEYWORDS)/ warning: \\$1/\"\n";
+		};
+		B6CF7734C5C3EE605ACF8424 /* Set version number */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Set version number";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "git=$(sh /etc/profile; which git)\ngit_release_version=$(\"$git\" describe --tags --always --abbrev=0)\nnumber_of_commits=$(\"$git\" rev-list master --count)\ntarget_plist=\"$TARGET_BUILD_DIR/$INFOPLIST_PATH\"\ndsym_plist=\"$DWARF_DSYM_FOLDER_PATH/$DWARF_DSYM_FILE_NAME/Contents/Info.plist\"\n\nfor plist in \"$target_plist\" \"$dsym_plist\"; do\n  if [ -f \"$plist\" ]; then\n    /usr/libexec/PlistBuddy -c \"Set :CFBundleVersion $number_of_commits\" \"$plist\"\n    /usr/libexec/PlistBuddy -c \"Set :CFBundleShortVersionString ${git_release_version#*v}\" \"$plist\"\n  fi\ndone\n";
+		};
+		EC54AF3D1EF94F2000FC4BEA /* Warn for TODO and FIXME comments */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Warn for TODO and FIXME comments";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "KEYWORDS=\"TODO:|FIXME:|\\?\\?\\?:|\\!\\!\\!:\"\nFILE_EXTENSIONS=\"swift|h|m|mm|c|cpp\"\nfind -E \"${SRCROOT}\" -ipath \"${SRCROOT}/Carthage\" -prune -o -ipath \"${SRCROOT}/pods\" -prune -o \\( -regex \".*\\.($FILE_EXTENSIONS)$\" \\) -print0 | xargs -0 egrep --with-filename --line-number --only-matching \"($KEYWORDS).*\\$\" | perl -p -e \"s/($KEYWORDS)/ warning: \\$1/\"\n";
+		};
+		EC54AF3E1EF94F2000FC4BEA /* Set version number */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Set version number";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "git=$(sh /etc/profile; which git)\ngit_release_version=$(\"$git\" describe --tags --always --abbrev=0)\nnumber_of_commits=$(\"$git\" rev-list master --count)\ntarget_plist=\"$TARGET_BUILD_DIR/$INFOPLIST_PATH\"\ndsym_plist=\"$DWARF_DSYM_FOLDER_PATH/$DWARF_DSYM_FILE_NAME/Contents/Info.plist\"\n\nfor plist in \"$target_plist\" \"$dsym_plist\"; do\n  if [ -f \"$plist\" ]; then\n    /usr/libexec/PlistBuddy -c \"Set :CFBundleVersion $number_of_commits\" \"$plist\"\n    /usr/libexec/PlistBuddy -c \"Set :CFBundleShortVersionString ${git_release_version#*v}\" \"$plist\"\n  fi\ndone\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		EC54AEFB1EF9251600FC4BEA /* Sources */ = {
@@ -284,6 +434,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC54AF261EF9251600FC4BEA /* erstreamTemplateUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC54AF341EF94F2000FC4BEA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC54AF351EF94F2000FC4BEA /* erstreamTemplate.xcdatamodeld in Sources */,
+				EC54AF361EF94F2000FC4BEA /* ViewController.swift in Sources */,
+				EC54AF371EF94F2000FC4BEA /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -334,13 +494,17 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_IMPLICIT_SIGN_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_IMPLICIT_CONVERSION = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -358,10 +522,21 @@
 					"$(inherited)",
 				);
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS = YES;
+				GCC_WARN_ABOUT_MISSING_FIELD_INITIALIZERS = YES;
+				GCC_WARN_ABOUT_MISSING_NEWLINE = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_INITIALIZER_NOT_FULLY_BRACKETED = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_SHADOW = YES;
+				GCC_WARN_SIGN_COMPARE = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_LABEL = YES;
+				GCC_WARN_UNUSED_VALUE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
@@ -384,13 +559,17 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_IMPLICIT_SIGN_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_IMPLICIT_CONVERSION = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -402,10 +581,21 @@
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS = YES;
+				GCC_WARN_ABOUT_MISSING_FIELD_INITIALIZERS = YES;
+				GCC_WARN_ABOUT_MISSING_NEWLINE = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_INITIALIZER_NOT_FULLY_BRACKETED = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_SHADOW = YES;
+				GCC_WARN_SIGN_COMPARE = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_LABEL = YES;
+				GCC_WARN_UNUSED_VALUE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
@@ -433,6 +623,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = V6KFG398S6;
+				GCC_TREAT_WARNINGS_AS_ERRORS = YES;
 				INFOPLIST_FILE = erstreamTemplate/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.teqwise.ios.erstreamTemplate;
@@ -499,6 +690,40 @@
 			};
 			name = Release;
 		};
+		EC54AF401EF94F2000FC4BEA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AddwiseLogo;
+				DEVELOPMENT_TEAM = V6KFG398S6;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"BRAND=1",
+				);
+				INFOPLIST_FILE = Brand01.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_SWIFT_FLAGS = "-D BRAND";
+				PRODUCT_BUNDLE_IDENTIFIER = com.teqwise.ios.Brand01;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		EC54AF411EF94F2000FC4BEA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AddwiseLogo;
+				DEVELOPMENT_TEAM = V6KFG398S6;
+				GCC_PREPROCESSOR_DEFINITIONS = "BRAND=1";
+				GCC_TREAT_WARNINGS_AS_ERRORS = YES;
+				INFOPLIST_FILE = Brand01.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_SWIFT_FLAGS = "-D BRAND";
+				PRODUCT_BUNDLE_IDENTIFIER = com.teqwise.ios.Brand01;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -518,6 +743,7 @@
 				EC54AF2C1EF9251600FC4BEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EC54AF2D1EF9251600FC4BEA /* Build configuration list for PBXNativeTarget "erstreamTemplateTests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +752,7 @@
 				EC54AF2F1EF9251600FC4BEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EC54AF301EF9251600FC4BEA /* Build configuration list for PBXNativeTarget "erstreamTemplateUITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +761,16 @@
 				EC54AF321EF9251600FC4BEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC54AF3F1EF94F2000FC4BEA /* Build configuration list for PBXNativeTarget "Brand01" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC54AF401EF94F2000FC4BEA /* Debug */,
+				EC54AF411EF94F2000FC4BEA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

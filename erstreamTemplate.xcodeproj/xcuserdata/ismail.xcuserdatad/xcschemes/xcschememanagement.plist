@@ -4,6 +4,46 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Brand01.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Brand02.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>erstreamTemplate copy 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>erstreamTemplate copy 3.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>erstreamTemplate copy 4 copy copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>erstreamTemplate copy 4 copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>erstreamTemplate copy 4.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>erstreamTemplate copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 		<key>erstreamTemplate.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +63,46 @@
 			<true/>
 		</dict>
 		<key>EC54AF201EF9251600FC4BEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EC54AF331EF94F2000FC4BEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EC54AF441EF94F4F00FC4BEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EC54AF661EFAA85000FC4BEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EC54AF791EFBB30400FC4BEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EC54AF8A1EFBB4D900FC4BEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EC54AF9B1EFBB5DA00FC4BEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EC54AFAC1EFBB5E600FC4BEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EC54AFBD1EFBB62C00FC4BEA</key>
 		<dict>
 			<key>primary</key>
 			<true/>

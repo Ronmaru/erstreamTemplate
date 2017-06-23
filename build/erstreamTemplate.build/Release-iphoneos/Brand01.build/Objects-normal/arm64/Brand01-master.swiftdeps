@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "bcc7297f01f572867a6d94b4f5948c5a"
+build_time: [551368817, 911770000]
+inputs:
+  "/Users/ismail/Desktop/erstreamTemplate/erstreamTemplate/ViewController.swift": [9223372036854775807, 0]
+  "/Users/ismail/Desktop/erstreamTemplate/erstreamTemplate/AppDelegate.swift": [9223372036854775807, 0]
