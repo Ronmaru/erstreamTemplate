@@ -268,7 +268,7 @@
 				TargetAttributes = {
 					EC54AEFE1EF9251600FC4BEA = {
 						CreatedOnToolsVersion = 8.3.1;
-						DevelopmentTeam = V6KFG398S6;
+						DevelopmentTeam = A9839AABNL;
 						ProvisioningStyle = Automatic;
 					};
 					EC54AF151EF9251600FC4BEA = {
@@ -609,10 +609,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = V6KFG398S6;
+				DEVELOPMENT_TEAM = A9839AABNL;
 				INFOPLIST_FILE = erstreamTemplate/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.teqwise.ios.erstreamTemplate;
+				PRODUCT_BUNDLE_IDENTIFIER = com.erstream.erstreamTemplate;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -622,11 +622,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = V6KFG398S6;
+				DEVELOPMENT_TEAM = A9839AABNL;
 				GCC_TREAT_WARNINGS_AS_ERRORS = YES;
 				INFOPLIST_FILE = erstreamTemplate/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.teqwise.ios.erstreamTemplate;
+				PRODUCT_BUNDLE_IDENTIFIER = com.erstream.erstreamTemplate;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
